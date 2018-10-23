@@ -2,7 +2,7 @@
 import React from 'react'
 
 export default class CoordinatesButton extends React.Components {
-  this.props.onReceiveCoordinates()
+  props.onReceiveCoordinates()
   render(){
     return(
       <button onClick= />
